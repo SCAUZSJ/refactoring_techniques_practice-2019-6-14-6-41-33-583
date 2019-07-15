@@ -10,6 +10,8 @@ public class BannerRender {
         return Banner.BANNER.getMsg();
     }
 
+
+
     enum Banner{
 
         IEONMAX("IE on Mac?"),
